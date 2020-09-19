@@ -6,7 +6,7 @@
 **mostilya@gmail.com**
 
 ## About me:
-*I want to try **JS** and add this programming language to my portfolio to make a lot of **money** in the future. *
+*I want to try **JS** and add this programming language to my portfolio to make a lot of **money** in the future.*
 
 ## My skills:
 * Java
