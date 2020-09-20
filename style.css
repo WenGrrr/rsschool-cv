@@ -1,0 +1,71 @@
+body
+{
+    display: flex;
+    justify-content: center;
+	font-family: 'Times New Roman', Times, serif;
+	filter: opacity(40);
+	background-image:url("http://pro-kotikov.ru/wp-content/uploads/2018/06/cute-exotic6.jpg");
+}
+    h1
+{
+	display: flex;
+	justify-content: space-between;
+	border-bottom:solid 2px;
+	border-color: black;
+	font-size: 42px;
+	animation: color-change 3s infinite;
+
+
+		
+}
+@keyframes color-change{
+	0%{
+		color: red;
+		}
+		20%{
+		
+		color: orange;
+		}
+		40%{
+		color: yellow;
+		}
+		60%{
+		color: green;
+		}
+		80%{
+		
+		color: blue;
+		}
+		100%{
+		color: purple;
+		}
+}
+h2
+{
+    display: flex;
+	justify-content: space-between;
+	border-bottom:solid 1px;
+	font-size: 24px;
+}
+
+article
+{
+background-color: rgba(136, 162, 163, 0.7);
+display: block;	
+padding: 0 10px;
+}
+img
+{
+width: 150px;
+height: auto;
+}
+li
+{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 16px;
+}
+p
+{
+    font-size: 16px;
+}
